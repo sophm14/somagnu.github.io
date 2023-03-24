@@ -1,0 +1,22 @@
+@charset "utf-8";
+.bg-dark {
+    background-color: #C9B0AB !important;
+}
+.text-center {
+
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    text-align: right;
+}
+.navbar-nav .nav-item {
+    margin-left: 4px;
+    margin-right: 4px;
+    text-align: center;
+}
+address {
+    color: #580304;
+}
+.text-left {
+
+}
